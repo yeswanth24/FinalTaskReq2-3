@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "req3/requirementsc"
+    imagename = "req3/requirements"
     registryCredential = 'DockerCredentials'
     dockerImage = ''
   }
